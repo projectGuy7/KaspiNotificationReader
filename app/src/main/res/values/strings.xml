@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KaspiNotificationReader</string>
+    <string name="kaspi_notification_reader_service">KaspiNotificationReaderService</string>
+    <string name="kaspi_package_name">kz.kaspi.mobile</string>
+</resources>
